@@ -1,2 +1,2 @@
 # Desain-Antarmuka-SinauBareng
-Sinau Bareng adalah media mencari mentor secara online yang memungkinkan para tutornya dari segala macam subyek untuk mengiklankan jasa mereka secara gratis. Sinau Bareng memiliki 5 level user yaitu pelajar, mentor, admin, finance, dan super admin. 
+Sinau Bareng adalah media mencari mentor secara online yang memungkinkan para tutornya dari segala macam subyek untuk mengiklankan jasa mereka secara gratis. Para tutor juga bisa membuat profil yang berisi tentang latar belakang pendidikan, kualifikasi, dan spesialisasi mereka serta menetapkan tarif per jamnya. Sinau Bareng memiliki 3 level user yaitu pelajar, mentor, admin, finance, dan super admin. Desain User Interface ini dibuat menggunakan tools figma. 
